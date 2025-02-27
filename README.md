@@ -1,6 +1,10 @@
-  <img align="left" alt="Coding" width="800" src="header.png">
+  <img align="center" alt="Coding" width="100%" src="header.png"> <br />
 
-  I am a second year computer science student at [Rochester Institute of Technology](rit.edu) and I am on the lookout for software engineering co-ops in the Northeastern United States for this Summer!
+  I am a second year computer science student at [Rochester Institute of Technology](https://www.rit.edu) and I am on the lookout for software engineering co-ops in the Northeastern United States for this Summer!
+
+  Here are my skills, in order of proficiency!
+
+  [![My Skills](https://skillicons.dev/icons?i=python,java,c,ts,angular,react,html,css)](https://skillicons.dev)
 
 <!--
 **dmv1167/dmv1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
