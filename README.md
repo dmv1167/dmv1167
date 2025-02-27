@@ -1,4 +1,6 @@
-## Hi there 👋
+  <img align="left" alt="Coding" width="800" src="header.png">
+
+  I am a second year computer science student at [Rochester Institute of Technology](rit.edu) and I am on the lookout for software engineering co-ops in the Northeastern United States for this Summer!
 
 <!--
 **dmv1167/dmv1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
