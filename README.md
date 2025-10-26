@@ -4,7 +4,7 @@
 
   Here are my skills, in order of proficiency!
 
-  [![My Skills](https://skillicons.dev/icons?i=python,java,c,ts,angular,react,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c,ts,angular,react,html,css)](https://skillicons.dev)
 
 <!--
 **dmv1167/dmv1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
